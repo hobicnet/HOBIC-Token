@@ -1,4 +1,4 @@
-# HOBIC Token (HBC)
+# HOBIC (HBC)
 
 ![Audit Planned](https://img.shields.io/badge/Audit-Planned-blue)
 ![License](https://img.shields.io/badge/License-AGPL--3.0-blue)
@@ -17,7 +17,7 @@
 
 ## 🔧 Token Summary
 
-- 🪙 Name: HOBIC Token  
+- 🪙 Name: HOBIC
 - 💲 Symbol: HBC  
 - 🔢 Decimals: 18  
 - 🔁 Total Supply: 1,000,000,000 HBC  
