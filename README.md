@@ -40,6 +40,8 @@
 - 📊 [Tokenomics](./docs/tokenomics.md)
 - 🗺️ [Roadmap](./docs/roadmap.md)
 - 🗂️ [Pitch Deck (PDF)](./docs/pitchdeck-hobic.pdf)
+- 📘 [Token Sale Details](./docs/token-sale.md)
+- 📈 [Sale Structure (Tiers)](./docs/sale-structure.md)
 
 ---
 
